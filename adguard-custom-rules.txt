@@ -1,4 +1,4 @@
 
 ! Content Farm
-||kknews.cc^
-||1applehealth.com^
+||kknews.cc^$document
+||1applehealth.com^$document
