@@ -12,10 +12,12 @@
 ||barjazz.me^$document
 ||barrybles.me^$document
 ||bbkkgo.xyz^$document
+||bnkwthmadison.co^$document
 ||clbh5xyz.me^$document
 ||clutv.me^$document
 ||columbne.me^$document
 ||couscouuges.me^$document
+||crosblanche.me^$document
 ||crozel.me^$document
 ||cznono.xyz^$document
 ||dariesias.me^$document
@@ -42,8 +44,10 @@
 ||marksgld.co^$document
 ||metallkshor.co^$document
 ||mijoaz.me^$document
+||ozutto.me^$document
 ||ponekgby.me^$document
 ||puindia.me^$document
+||randotpads.me^$document
 ||rantasa.me^$document
 ||saddbre.me^$document
 ||startunvas.co^$document
@@ -58,6 +62,7 @@
 ||uzila.me^$document
 ||viviannody.me^$document
 ||wahvish.me^$document
+||wptiood.me^$document
 ||whknee.xyz^$document
 ||zahnertig.me^$document
 ||zeitnwende.me^$document
