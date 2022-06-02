@@ -26,6 +26,7 @@
 ||logo2buy.me^$document
 ||luenebuuse.co^$document
 ||mijoaz.me^$document
+||ponekgby.me^$document
 ||rantasa.me^$document
 ||saddbre.me^$document
 ||startunvas.co^$document
