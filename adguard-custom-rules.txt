@@ -4,6 +4,7 @@
 ||kknews.cc^$document
 
 ! Malicious Websites
+||51moeynw.co^$document
 ||aziealia.me^$document
 ||bbkkgo.xyz^$document
 ||delhdcas.co^$document
@@ -11,6 +12,7 @@
 ||dysamx.me^$document
 ||faiplasti.me^$document
 ||fatbean.xyz^$document
+||hendrart.co^$document
 ||hk-survey-61.com^$document
 ||lisolachece.me^$document
 ||luenebuuse.co^$document
