@@ -23,6 +23,7 @@
 ||faiplasti.me^$document
 ||fatbean.xyz^$document
 ||hendrart.co^$document
+||htpjahng.me^$document
 ||hk-survey-61.com^$document
 ||lisolachece.me^$document
 ||logo2buy.me^$document
