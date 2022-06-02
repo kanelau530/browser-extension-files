@@ -4,6 +4,7 @@
 ||kknews.cc^$document
 
 ! Malicious Websites
+||aziealia.me^$document
 ||bbkkgo.xyz^$document
 ||delhdcas.co^$document
 ||dmhers.co^$document
