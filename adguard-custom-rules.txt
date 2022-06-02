@@ -13,6 +13,7 @@
 ||fatbean.xyz^$document
 ||hk-survey-61.com^$document
 ||lisolachece.me^$document
+||luenebuuse.co^$document
 ||mijoaz.me^$document
 ||rantasa.me^$document
 ||twincitrplus.me^$document
