@@ -34,6 +34,7 @@
 ||superpers.me^$document
 ||swissdasta.co^$document
 ||thefoursinn.me^$document
+||truwowoine.me^$document
 ||twincitrplus.me^$document
 ||wahvish.me^$document
 ||whknee.xyz^$document
