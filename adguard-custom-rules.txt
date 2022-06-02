@@ -5,8 +5,10 @@
 
 ! Malicious Websites
 ||51moeynw.co^$document
+||alraaoman.me^$document
 ||aziealia.me^$document
 ||bbkkgo.xyz^$document
+||crozel.me^$document
 ||delhdcas.co^$document
 ||dmhers.co^$document
 ||dysamx.me^$document
@@ -16,6 +18,7 @@
 ||hendrart.co^$document
 ||hk-survey-61.com^$document
 ||lisolachece.me^$document
+||logo2buy.me^$document
 ||luenebuuse.co^$document
 ||mijoaz.me^$document
 ||rantasa.me^$document
