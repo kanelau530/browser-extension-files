@@ -9,6 +9,7 @@
 ||aziealia.me^$document
 ||babetgrun.me^$document
 ||bagcilasm.co^$document
+||barrybles.me^$document
 ||bbkkgo.xyz^$document
 ||clutv.me^$document
 ||columbne.me^$document
@@ -22,9 +23,11 @@
 ||elcaugfic.co^$document
 ||faiplasti.me^$document
 ||fatbean.xyz^$document
+||floranth.co^$document
 ||hendrart.co^$document
 ||htpjahng.me^$document
 ||hk-survey-61.com^$document
+||katekam.me^$document
 ||iamapsic.me^$document
 ||lisolachece.me^$document
 ||logo2buy.me^$document
@@ -43,6 +46,7 @@
 ||truwowoine.me^$document
 ||tusentity.me^$document
 ||twincitrplus.me^$document
+||viviannody.me^$document
 ||wahvish.me^$document
 ||whknee.xyz^$document
 ||zahnertig.me^$document
