@@ -20,4 +20,5 @@
 ||twincitrplus.me^$document
 ||wahvish.me^$
 ||whknee.xyz^$document
+||zahnertig.me^$document
 ||zsmtn.me^$document
