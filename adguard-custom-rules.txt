@@ -9,6 +9,7 @@
 ||aziealia.me^$document
 ||bagcilasm.co^$document
 ||bbkkgo.xyz^$document
+||clutv.me^$document
 ||columbne.me^$document
 ||crozel.me^$document
 ||cznono.xyz^$document
