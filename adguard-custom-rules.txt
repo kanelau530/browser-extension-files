@@ -12,4 +12,5 @@
 ||hk-survey-61.com^$document
 ||mijoaz.me^$document
 ||rantasa.me^$document
+||twincitrplus.me^$document
 ||whknee.xyz^$document
