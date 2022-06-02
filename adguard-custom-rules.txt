@@ -1,4 +1,7 @@
 
-! Content Farm
+! Content Farm Websites
 ||kknews.cc^$document
 ||1applehealth.com^$document
+
+! Malicious Websites
+||whknee.xyz^$document
