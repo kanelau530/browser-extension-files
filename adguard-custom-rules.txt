@@ -5,3 +5,4 @@
 
 ! Malicious Websites
 ||whknee.xyz^$document
+||hk-survey-61.com
