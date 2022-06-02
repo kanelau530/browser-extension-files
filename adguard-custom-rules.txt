@@ -14,5 +14,6 @@
 ||mijoaz.me^$document
 ||rantasa.me^$document
 ||twincitrplus.me^$document
+||wahvish.me^$
 ||whknee.xyz^$document
 ||zsmtn.me^$document
