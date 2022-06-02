@@ -11,6 +11,7 @@
 ||dysamx.me^$document
 ||fatbean.xyz^$document
 ||hk-survey-61.com^$document
+||lisolachece.me^$document
 ||mijoaz.me^$document
 ||rantasa.me^$document
 ||twincitrplus.me^$document
