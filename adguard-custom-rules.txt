@@ -4,6 +4,8 @@
 ||1applehealth.com^$document
 
 ! Malicious Websites
+||rantasa.me^$document
+||dysamx.me^$document
 ||whknee.xyz^$document
 ||hk-survey-61.com^$document
-||dysamx.me^$document
+||bbkkgo.xyz^$document
