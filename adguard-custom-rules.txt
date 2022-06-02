@@ -6,6 +6,7 @@
 ! Malicious Websites
 ||bbkkgo.xyz^$document
 ||delhdcas.co^$document
+||dmhers.co^$document
 ||dysamx.me^$document
 ||fatbean.xyz^$document
 ||hk-survey-61.com^$document
