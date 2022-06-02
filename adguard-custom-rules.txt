@@ -9,6 +9,7 @@
 ||aziealia.me^$document
 ||babetgrun.me^$document
 ||bagcilasm.co^$document
+||barjazz.me^$document
 ||barrybles.me^$document
 ||bbkkgo.xyz^$document
 ||clutv.me^$document
@@ -21,6 +22,7 @@
 ||dmhers.co^$document
 ||dysamx.me^$document
 ||elcaugfic.co^$document
+||eqprser.me^$document
 ||faiplasti.me^$document
 ||fatbean.xyz^$document
 ||floranth.co^$document
