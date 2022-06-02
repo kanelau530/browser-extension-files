@@ -1,11 +1,12 @@
 
 ! Content Farm Websites
-||kknews.cc^$document
 ||1applehealth.com^$document
+||kknews.cc^$document
 
 ! Malicious Websites
-||rantasa.me^$document
-||dysamx.me^$document
-||whknee.xyz^$document
-||hk-survey-61.com^$document
 ||bbkkgo.xyz^$document
+||dysamx.me^$document
+||hk-survey-61.com^$document
+||mijoaz.me^$document
+||rantasa.me^$document
+||whknee.xyz^$document
