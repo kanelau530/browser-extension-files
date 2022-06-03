@@ -23,6 +23,7 @@
 *://*.faiplasti.me/*
 *://*.floranth.co/*
 *://*.hendrart.co/*
+*://*.h72kkp.co/*
 *://*.htpjahng.me/*
 *://*.iamapsic.me/*
 *://*.kalahareaks.me/*
@@ -35,6 +36,7 @@
 *://*.malltt.me/*
 *://*.marksgld.co/*
 *://*.metallkshor.co/*
+*://*.mdsuljara.me/*
 *://*.mijoaz.me/*
 *://*.ozutto.me/*
 *://*.ponekgby.me/*

@@ -30,6 +30,7 @@
 ||faiplasti.me^$document
 ||fatbean.xyz^$document
 ||floranth.co^$document
+||h72kkp.co^$document
 ||hendrart.co^$document
 ||htpjahng.me^$document
 ||hk-survey-61.com^$document
@@ -43,6 +44,7 @@
 ||malltt.me^$document
 ||marksgld.co^$document
 ||metallkshor.co^$document
+||mdsuljara.me^$docment
 ||mijoaz.me^$document
 ||ozutto.me^$document
 ||ponekgby.me^$document
