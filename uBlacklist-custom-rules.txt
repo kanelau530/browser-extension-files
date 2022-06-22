@@ -59,6 +59,7 @@
 *://*.twincitrplus.me/*
 *://*.uzila.me/*
 *://*.viviannody.me/*
+*://*.voiurisabogados.es/*
 *://*.wahvish.me/*
 *://*.wptiood.me/*
 *://*.zahnertig.me/*
