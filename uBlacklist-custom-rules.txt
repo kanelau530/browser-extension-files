@@ -17,6 +17,7 @@
 *://*.dariesias.me/*
 *://*.decorryhome.me/*
 *://*.delhdcas.co/*
+*://*.di02.biz/*
 *://*.dmhers.co/*
 *://*.dysamx.me/*
 *://*.elcaugfic.co/*
