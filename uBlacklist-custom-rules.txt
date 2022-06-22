@@ -13,6 +13,7 @@
 *://*.clbh5xyz.me/*
 *://*.clutv.me/*
 *://*.columbne.me/*
+*://*.conceptmebeljs.eu/*
 *://*.couscouuges.me/*
 *://*.crosblanche.me/*
 *://*.crozel.me/*
