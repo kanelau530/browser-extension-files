@@ -49,6 +49,7 @@
 ||ozutto.me^$document
 ||ponekgby.me^$document
 ||puindia.me^$document
+||quing.im^$document
 ||randotpads.me^$document
 ||rantasa.me^$document
 ||saddbre.me^$document
