@@ -24,6 +24,7 @@
 ||dariesias.me^$document
 ||decorryhome.me^$document
 ||delhdcas.co^$document
+||di02.biz^
 ||dmhers.co^$document
 ||dysamx.me^$document
 ||elcaugfic.co^$document
