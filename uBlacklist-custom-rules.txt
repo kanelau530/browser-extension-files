@@ -52,7 +52,7 @@
 *://*.puindia.me/*
 *://*.randotpads.me/*
 *://*.rantasa.me/*
-*://*.residence-lartoise.eu/*
+*://*.residence-lartdoise.eu/*
 *://*.saddbre.me/*
 *://*.startunvas.co/*
 *://*.steamnity.me/*
