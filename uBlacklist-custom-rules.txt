@@ -50,6 +50,7 @@
 *://*.sweettiqueuk.me/*
 *://*.swissdasta.co/*
 *://*.thefoursinn.me/*
+*://*.toenoughfloor.buzz/*
 *://*.truwowoine.me/*
 *://*.tusentity.me/*
 *://*.twincitrplus.me/*
