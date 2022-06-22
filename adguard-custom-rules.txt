@@ -70,6 +70,7 @@
 ||tusentity.me^$document
 ||twincitrplus.me^$document
 ||uzila.me^$document
+||videoplay-on.com^$document
 ||viviannody.me^$document
 ||wahvish.me^$document
 ||wptiood.me^$document
