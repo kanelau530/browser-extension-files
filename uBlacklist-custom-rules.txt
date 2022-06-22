@@ -36,6 +36,7 @@
 *://*.katekam.me/*
 *://*.kknews.cc/*
 *://*.lightthewayink.co/*
+*://*.limonidisicilia.eu/*
 *://*.lisolachece.me/*
 *://*.logo2buy.me/*
 *://*.luenebuuse.co/*
@@ -49,6 +50,7 @@
 *://*.puindia.me/*
 *://*.randotpads.me/*
 *://*.rantasa.me/*
+*://*.residence-lartoise.eu/*
 *://*.saddbre.me/*
 *://*.startunvas.co/*
 *://*.steamnity.me/*
