@@ -5,6 +5,7 @@
 
 ! Malicious Websites
 ||51moeynw.co^$document
+||ajlraymond.fr^$document
 ||alraaoman.me^$document
 ||anapiapalermo.eu^$document
 ||arevalo-bleuse.fr^$document
@@ -30,6 +31,7 @@
 ||di02.biz^
 ||dmhers.co^$document
 ||dysamx.me^$document
+||ekopa.eu^$document
 ||elcaugfic.co^$document
 ||eqprser.me^$document
 ||faiplasti.me^$document
