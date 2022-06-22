@@ -30,7 +30,8 @@
 ||darkhotterm.buzz^$document
 ||decorryhome.me^$document
 ||delhdcas.co^$document
-||di02.biz^
+||di02.biz^$document
+||di06.biz^$document
 ||dmhers.co^$document
 ||dysamx.me^$document
 ||ekopa.eu^$document
