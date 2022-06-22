@@ -38,6 +38,7 @@
 ||kalahareaks.me^$document
 ||katekam.me^$document
 ||iamapsic.me^$document
+||isabel-lopez-kubben.at^$document
 ||lightthewayink.co^$document
 ||lisolachece.me^$document
 ||logo2buy.me^$document
