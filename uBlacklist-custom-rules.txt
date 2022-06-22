@@ -48,6 +48,7 @@
 *://*.metallkshor.co/*
 *://*.mdsuljara.me/*
 *://*.mijoaz.me/*
+*://*.mirinconfavorito.es/*
 *://*.ozutto.me/*
 *://*.ponekgby.me/*
 *://*.puindia.me/*
