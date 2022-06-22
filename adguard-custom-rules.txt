@@ -44,6 +44,7 @@
 ||intrepfilms.me^$document
 ||isabel-lopez-kubben.at^$document
 ||lightthewayink.co^$document
+||limonidisicilia.eu^$document
 ||lisolachece.me^$document
 ||logo2buy.me^$document
 ||luenebuuse.co^$document
@@ -58,6 +59,7 @@
 ||quing.im^$document
 ||randotpads.me^$document
 ||rantasa.me^$document
+||residence-lartdoise.eu$document
 ||saddbre.me^$document
 ||startunvas.co^$document
 ||steamnity.me^$document
