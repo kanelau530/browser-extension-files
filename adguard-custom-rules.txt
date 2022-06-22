@@ -6,6 +6,7 @@
 ! Malicious Websites
 ||51moeynw.co^$document
 ||alraaoman.me^$document
+||anapiapalermo.eu^$document
 ||arevalo-bleuse.fr^$document
 ||aziealia.me^$document
 ||babetgrun.me^$document
