@@ -26,6 +26,7 @@
 ||crozel.me^$document
 ||cznono.xyz^$document
 ||dariesias.me^$document
+||darkhotterm.buzz^$document
 ||decorryhome.me^$document
 ||delhdcas.co^$document
 ||di02.biz^
