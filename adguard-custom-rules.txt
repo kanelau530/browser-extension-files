@@ -20,6 +20,7 @@
 ||benefit-for-you.life^$document
 ||bestbonus-zone.life$document
 ||bnkwthmadison.co^$document
+||chqboks.co^$document
 ||clbh5xyz.me^$document
 ||clutv.me^$document
 ||columbne.me^$document
@@ -42,6 +43,7 @@
 ||faiplasti.me^$document
 ||fatbean.xyz^$document
 ||floranth.co^$document
+||freeboks.me^$document
 ||h72kkp.co^$document
 ||hendrart.co^$document
 ||htpjahng.me^$document
