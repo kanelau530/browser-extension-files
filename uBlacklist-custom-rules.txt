@@ -13,6 +13,7 @@
 *://*.barrybles.me/*
 *://*.benefit-for-you.life/*
 *://*.bnkwthmadison.co/*
+*://*.chqboks.co/*
 *://*.clbh5xyz.me/*
 *://*.clutv.me/*
 *://*.columbne.me/*
@@ -30,6 +31,7 @@
 *://*.eqprser.me/*
 *://*.faiplasti.me/*
 *://*.floranth.co/*
+*://*.freeboks.me/*
 *://*.hendrart.co/*
 *://*.h72kkp.co/*
 *://*.htpjahng.me/*
