@@ -65,6 +65,7 @@
 ||mdsuljara.me^$document
 ||mijoaz.me^$document
 ||mirinconfavorito.es^$document
+||naszakultura.eu^$document
 ||ozutto.me^$document
 ||ponekgby.me^$document
 ||puindia.me^$document
