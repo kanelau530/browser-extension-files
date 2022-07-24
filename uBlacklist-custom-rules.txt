@@ -46,6 +46,7 @@
 *://*.lisolachece.me/*
 *://*.logo2buy.me/*
 *://*.luenebuuse.co/*
+*://*.naszakultura.eu/*
 *://*.malltt.me/*
 *://*.marksgld.co/*
 *://*.metallkshor.co/*
