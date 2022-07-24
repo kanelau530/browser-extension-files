@@ -62,7 +62,7 @@
 ||mamantatonne.eu^$document
 ||marksgld.co^$document
 ||metallkshor.co^$document
-||mdsuljara.me^$docment
+||mdsuljara.me^$document
 ||mijoaz.me^$document
 ||mirinconfavorito.es^$document
 ||ozutto.me^$document
